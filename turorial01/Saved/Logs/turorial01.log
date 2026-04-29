@@ -3077,3 +3077,1572 @@ Sampler Limit: 32
 [2026.04.29-09.56.18:738][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.29-09.56.18:738][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.29-09.56.18:738][640]AssetCheck: /Game/levels/testlevel 에셋 유효성 검사 중
+[2026.04.29-09.57.24:443][ 71]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-09.57.24:444][ 71]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-09.57.29:770][399]LogInteractiveToolsContext: Display: 디테일 패널에서 셰이프 세팅을 변경하거나 기즈모로 배치를 수정한 다음 툴을 수락하세요.
+[2026.04.29-09.57.41:890][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Stairs_7738DCCC.Stairs_7738DCCC
+[2026.04.29-09.57.41:891][134]LogStaticMesh: Display: Stairs_7738DCCC스태틱 메시 빌드 중(필요 메모리 예상: 0.336536MB)...
+[2026.04.29-09.57.41:892][134]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Stairs_7738DCCC.Stairs_7738DCCC as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_67
+[2026.04.29-09.57.41:893][134]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Stairs_7738DCCC.Stairs_7738DCCC
+[2026.04.29-09.57.42:956][134]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, Stairs_7738DCCC
+[2026.04.29-09.57.43:154][136]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-09.57.43:213][137]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-09.57.44:194][194]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, Stairs_7738DCCC
+[2026.04.29-09.58.58:935][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5046.026855
+[2026.04.29-09.58.59:233][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-09.58.59:233][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5046.308594, Update Interval: 338.114563
+[2026.04.29-09.59.32:283][974]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-09.59.32:284][974]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-09.59.34:011][113]LogInteractiveToolsContext: Display: 디테일 패널에서 셰이프 세팅을 변경하거나 기즈모로 배치를 수정한 다음 툴을 수락하세요.
+[2026.04.29-09.59.35:182][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Box_5DFB858F.Box_5DFB858F
+[2026.04.29-09.59.35:183][199]LogStaticMesh: Display: Box_5DFB858F스태틱 메시 빌드 중(필요 메모리 예상: 0.027864MB)...
+[2026.04.29-09.59.35:183][199]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Box_5DFB858F.Box_5DFB858F
+[2026.04.29-09.59.35:184][199]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Box_5DFB858F.Box_5DFB858F as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_69
+[2026.04.29-09.59.36:606][199]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, Box_5DFB858F
+[2026.04.29-09.59.36:830][200]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-09.59.36:989][201]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-09.59.38:389][262]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, Box_5DFB858F
+[2026.04.29-09.59.41:731][463]Cmd: TRANSACTION UNDO
+[2026.04.29-09.59.41:731][463]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-10.00.13:344][453]Cmd: TRANSACTION UNDO
+[2026.04.29-10.00.13:344][453]LogEditorTransaction: Undo 배경 클릭
+[2026.04.29-10.00.14:091][471]Cmd: TRANSACTION UNDO
+[2026.04.29-10.00.14:091][471]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-10.00.14:099][471]LogActorComponent: UnregisterComponent: (/Game/levels/testlevel.testlevel:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_15) Not registered. Aborting.
+[2026.04.29-10.00.14:099][471]LogActorComponent: UnregisterComponent: (/Game/levels/testlevel.testlevel:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_15) Not registered. Aborting.
+[2026.04.29-10.00.23:394][ 90]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.30:331][620]LogInteractiveToolsContext: Warning: 경고: 선택한 복수의 메시가 동일한 소스 에셋을 사용합니다! 평면을 자르면 소스 에셋에 적용되며, 이 툴은 에셋을 복제하지 않습니다. 일반적으로 이러한 경우에는 해당 툴이 의도한 결과를 구현하지 못합니다. 툴을 종료한 다음 소스 에셋을 복제하는 것을 고려하세요.
+[2026.04.29-10.00.30:344][620]LogInteractiveToolsContext: Display: T' 키를 누르거나 자르기 버튼을 사용하여 툴에서 나가지 않고 메시를 자릅니다. 평면 방향을 뒤집으려면 'R' 키를 누릅니다.
+[2026.04.29-10.00.31:700][728]Cmd: TRANSACTION UNDO
+[2026.04.29-10.00.31:700][728]LogEditorTransaction: Undo 툴 활성화
+[2026.04.29-10.00.36:922][ 97]LogInteractiveToolsContext: Display: 입력 메시에 불린 연산을 수행합니다. 모든 내부 면은 제거됩니다. 트랜스폼 기즈모를 사용하여 입력 오브젝트의 위치와 방향을 수정합니다.
+[2026.04.29-10.00.38:823][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Boolean_974E4CA7.Boolean_974E4CA7
+[2026.04.29-10.00.38:823][237]LogStaticMesh: Display: Boolean_974E4CA7스태틱 메시 빌드 중(필요 메모리 예상: 0.145678MB)...
+[2026.04.29-10.00.38:824][237]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Boolean_974E4CA7.Boolean_974E4CA7 as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_74
+[2026.04.29-10.00.38:824][237]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Boolean_974E4CA7.Boolean_974E4CA7
+[2026.04.29-10.00.40:009][237]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, Boolean_974E4CA7
+[2026.04.29-10.00.40:067][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.40:128][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.29-10.00.40:130][237]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2026.04.29-10.00.40:136][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.40:163][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.29-10.00.40:164][237]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.04.29-10.00.40:352][238]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.40:374][239]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.41:415][308]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, Boolean_974E4CA7
+[2026.04.29-10.00.45:167][549]LogInteractiveToolsContext: Display: 입력 메시에 불린 연산을 수행합니다. 모든 내부 면은 제거됩니다. 트랜스폼 기즈모를 사용하여 입력 오브젝트의 위치와 방향을 수정합니다.
+[2026.04.29-10.00.46:223][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Boolean_99C0EAB7.Boolean_99C0EAB7
+[2026.04.29-10.00.46:224][624]LogStaticMesh: Display: Boolean_99C0EAB7스태틱 메시 빌드 중(필요 메모리 예상: 0.256207MB)...
+[2026.04.29-10.00.46:224][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Boolean_99C0EAB7.Boolean_99C0EAB7 as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_75
+[2026.04.29-10.00.46:225][624]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Boolean_99C0EAB7.Boolean_99C0EAB7
+[2026.04.29-10.00.47:419][624]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, Boolean_99C0EAB7
+[2026.04.29-10.00.47:489][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.47:522][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.04.29-10.00.47:524][624]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.04.29-10.00.47:530][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.47:558][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.29-10.00.47:559][624]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.04.29-10.00.47:703][625]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.47:725][626]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.48:884][699]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, Boolean_99C0EAB7
+[2026.04.29-10.00.51:657][862]LogInteractiveToolsContext: Display: 입력 메시에 불린 연산을 수행합니다. 모든 내부 면은 제거됩니다. 트랜스폼 기즈모를 사용하여 입력 오브젝트의 위치와 방향을 수정합니다.
+[2026.04.29-10.00.52:547][922]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Boolean_1FE92E3A.Boolean_1FE92E3A
+[2026.04.29-10.00.52:547][922]LogStaticMesh: Display: Boolean_1FE92E3A스태틱 메시 빌드 중(필요 메모리 예상: 0.319467MB)...
+[2026.04.29-10.00.52:548][922]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Boolean_1FE92E3A.Boolean_1FE92E3A as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_76
+[2026.04.29-10.00.52:548][922]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Boolean_1FE92E3A.Boolean_1FE92E3A
+[2026.04.29-10.00.53:725][922]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, Boolean_1FE92E3A
+[2026.04.29-10.00.53:791][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.53:827][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.29-10.00.53:833][922]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2026.04.29-10.00.53:839][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.53:868][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.29-10.00.53:869][922]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.04.29-10.00.54:030][923]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.54:053][924]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.55:169][986]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, Boolean_1FE92E3A
+[2026.04.29-10.00.56:061][ 47]LogInteractiveToolsContext: Display: 입력 메시에 불린 연산을 수행합니다. 모든 내부 면은 제거됩니다. 트랜스폼 기즈모를 사용하여 입력 오브젝트의 위치와 방향을 수정합니다.
+[2026.04.29-10.00.56:960][110]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Boolean_64D72C6D.Boolean_64D72C6D
+[2026.04.29-10.00.56:960][110]LogStaticMesh: Display: Boolean_64D72C6D스태틱 메시 빌드 중(필요 메모리 예상: 0.436338MB)...
+[2026.04.29-10.00.56:961][110]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Boolean_64D72C6D.Boolean_64D72C6D as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_77
+[2026.04.29-10.00.56:962][110]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Boolean_64D72C6D.Boolean_64D72C6D
+[2026.04.29-10.00.58:134][110]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, Boolean_64D72C6D
+[2026.04.29-10.00.58:196][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.58:221][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.29-10.00.58:224][110]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.04.29-10.00.58:230][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.29-10.00.58:257][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.04.29-10.00.58:258][110]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.04.29-10.00.58:401][111]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.58:425][112]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.00.59:548][184]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, Boolean_64D72C6D
+[2026.04.29-10.01.43:960][589]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.29-10.01.43:960][589]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.29-10.01.45:164][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.29-10.01.45:166][652]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.04.29-10.01.45:173][652]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.29-10.01.45:173][652]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.04.29-10.02.37:427][224]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.02.37:434][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.02.37:434][224]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.02.37:439][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004077s)
+[2026.04.29-10.02.37:439][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.004157s)
+[2026.04.29-10.02.37:471][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.29-10.02.37:474][224]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.02.37:476][224]LogPlayLevel: PIE: World Init took: (0.002228s)
+[2026.04.29-10.02.37:477][224]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.02.37:477][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.02.37:477][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.02.37:477][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.02.37:477][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.02.37:477][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.02.37:480][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.02.37:496][224]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.02.37:496][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.02.37:496][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.02.37:496][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.02.37:497][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.04.29-10.02.37:497][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.04.29-10.02.37:499][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.04.29-10.02.37:499][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.04.29-10.02.37:499][224]LogInit: FAudioDevice initialized with ID 9.
+[2026.04.29-10.02.37:499][224]LogAudio: Display: Audio Device (ID: 9) registered with world 'testlevel'.
+[2026.04.29-10.02.37:499][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.29-10.02.37:503][224]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.02.37:504][224]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.02.37
+[2026.04.29-10.02.37:504][224]LogWorld: Bringing up level for play took: 0.000996
+[2026.04.29-10.02.37:507][224]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.04.29-10.02.37:509][224]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.02.37:511][224]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2026.04.29-10.02.43:361][394]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.02.46:229][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.02.46:229][475]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.02.46:229][475]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.02.46:230][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.02.46:242][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.02.46:245][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.02.46:265][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.02.46:265][475]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.04.29-10.02.46:265][475]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.04.29-10.02.46:267][475]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.04.29-10.02.46:286][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-10.02.46:436][476]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.04.29-10.03.17:053][110]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2026.04.29-10.03.17:053][110]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2026.04.29-10.03.17:057][110]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/levels/testlevel.testlevel:PersistentLevel.Character_0
+[2026.04.29-10.03.17:057][110]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/levels/testlevel.testlevel:PersistentLevel.Character_0
+[2026.04.29-10.03.19:631][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.29-10.03.19:632][261]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.04.29-10.03.19:637][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2026.04.29-10.03.19:637][261]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2026.04.29-10.03.19:640][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/levels/testlevel.testlevel:PersistentLevel.Character_1
+[2026.04.29-10.03.19:640][261]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/levels/testlevel.testlevel:PersistentLevel.Character_1
+[2026.04.29-10.03.35:363][192]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.03.35:368][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.03.35:398][192]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.03.35:401][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002482s)
+[2026.04.29-10.03.35:401][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.002515s)
+[2026.04.29-10.03.35:421][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.04.29-10.03.35:423][192]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.03.35:425][192]LogPlayLevel: PIE: World Init took: (0.002417s)
+[2026.04.29-10.03.35:427][192]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.03.35:427][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.03.35:427][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.03.35:427][192]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.03.35:427][192]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.03.35:427][192]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.03.35:430][192]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.03.35:446][192]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.03.35:446][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.03.35:446][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.03.35:446][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.03.35:447][192]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.04.29-10.03.35:447][192]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.04.29-10.03.35:449][192]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.04.29-10.03.35:449][192]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.04.29-10.03.35:449][192]LogInit: FAudioDevice initialized with ID 10.
+[2026.04.29-10.03.35:449][192]LogAudio: Display: Audio Device (ID: 10) registered with world 'testlevel'.
+[2026.04.29-10.03.35:449][192]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.29-10.03.35:452][192]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.03.35:453][192]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.03.35
+[2026.04.29-10.03.35:458][192]LogWorld: Bringing up level for play took: 0.005275
+[2026.04.29-10.03.35:460][192]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.04.29-10.03.35:464][192]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.03.35:466][192]PIE: 에디터에서 플레이 총 시작 시간 0.098초입니다.
+[2026.04.29-10.03.38:571][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.03.38:571][249]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.03.38:573][249]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.03.38:573][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.03.38:634][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.03.38:637][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.03.38:661][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.03.38:661][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.04.29-10.03.38:661][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.04.29-10.03.38:663][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.04.29-10.03.38:670][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.29-10.03.38:931][250]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.04.29-10.04.04:162][332]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.04:162][332]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.04:162][332]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_0
+[2026.04.29-10.04.04:162][332]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_0
+[2026.04.29-10.04.04:624][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.29-10.04.04:625][358]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.04.29-10.04.05:025][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.05:025][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.05:026][378]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_1
+[2026.04.29-10.04.05:026][378]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_1
+[2026.04.29-10.04.06:197][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.29-10.04.06:198][443]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.04.29-10.04.06:205][443]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.06:205][443]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Pawn
+[2026.04.29-10.04.06:206][443]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_2
+[2026.04.29-10.04.06:206][443]LogActorFactory: Actor Factory spawned Class /Script/Engine.Pawn as actor: Pawn /Game/levels/testlevel.testlevel:PersistentLevel.Pawn_2
+[2026.04.29-10.04.18:311][110]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.04.18:318][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.04.18:338][110]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.04.18:340][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002608s)
+[2026.04.29-10.04.18:340][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.002639s)
+[2026.04.29-10.04.18:363][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.29-10.04.18:365][110]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.04.18:367][110]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2026.04.29-10.04.18:368][110]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.04.18:368][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.04.18:368][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.04.18:368][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.04.18:368][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.04.18:368][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.04.18:370][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.04.18:385][110]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.04.18:385][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.04.18:385][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.04.18:385][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.04.18:385][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.04.29-10.04.18:385][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.04.29-10.04.18:388][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.04.29-10.04.18:388][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.04.29-10.04.18:388][110]LogInit: FAudioDevice initialized with ID 11.
+[2026.04.29-10.04.18:388][110]LogAudio: Display: Audio Device (ID: 11) registered with world 'testlevel'.
+[2026.04.29-10.04.18:388][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.29-10.04.18:391][110]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.04.18:393][110]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.04.18
+[2026.04.29-10.04.18:393][110]LogWorld: Bringing up level for play took: 0.001308
+[2026.04.29-10.04.18:395][110]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.04.29-10.04.18:397][110]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.04.18:399][110]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2026.04.29-10.04.37:072][ 72]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.04.51:769][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.04.51:769][875]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.04.51:769][875]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.04.51:770][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.04.51:771][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.04.51:774][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.04.51:795][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.04.51:795][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.04.29-10.04.51:795][875]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.04.29-10.04.51:798][875]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.04.29-10.04.51:938][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.29-10.04.52:122][876]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.04.29-10.05.11:507][880]Cmd: DELETE
+[2026.04.29-10.05.11:507][880]Cmd: ACTOR DELETE
+[2026.04.29-10.05.11:510][880]LogEditorActor: Deleted Actor: Character
+[2026.04.29-10.05.11:544][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.29-10.05.11:546][880]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.04.29-10.05.14:441][ 97]Cmd: DELETE
+[2026.04.29-10.05.14:441][ 97]Cmd: ACTOR DELETE
+[2026.04.29-10.05.14:443][ 97]LogEditorActor: Deleted Actor: Pawn
+[2026.04.29-10.05.14:479][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.29-10.05.14:481][ 97]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.04.29-10.05.21:262][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5428.343262
+[2026.04.29-10.05.21:545][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.05.21:546][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5428.611328, Update Interval: 308.293091
+[2026.04.29-10.05.23:543][709]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.05.29:853][ 92]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.04.29-10.05.33:818][336]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.05.33:824][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.05.33:824][336]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.05.33:828][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003401s)
+[2026.04.29-10.05.33:828][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.003463s)
+[2026.04.29-10.05.33:857][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.29-10.05.33:859][336]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.05.33:861][336]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2026.04.29-10.05.33:862][336]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.05.33:862][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.05.33:862][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.05.33:862][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.05.33:862][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.05.33:862][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.05.33:864][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.05.33:880][336]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.05.33:880][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.05.33:880][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.05.33:880][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.05.33:881][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.04.29-10.05.33:881][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.04.29-10.05.33:883][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.04.29-10.05.33:883][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.04.29-10.05.33:883][336]LogInit: FAudioDevice initialized with ID 12.
+[2026.04.29-10.05.33:883][336]LogAudio: Display: Audio Device (ID: 12) registered with world 'testlevel'.
+[2026.04.29-10.05.33:883][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.29-10.05.33:887][336]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.05.33:888][336]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.05.33
+[2026.04.29-10.05.33:888][336]LogWorld: Bringing up level for play took: 0.000844
+[2026.04.29-10.05.33:890][336]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.04.29-10.05.33:892][336]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.05.33:894][336]PIE: 에디터에서 플레이 총 시작 시간 0.07초입니다.
+[2026.04.29-10.05.40:458][560]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.05.47:800][955]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.05.54:123][307]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.05.58:499][594]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.06.27:667][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.06.27:667][179]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.06.27:667][179]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.06.27:668][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.06.27:670][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.06.27:672][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.06.27:694][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-10.06.27:694][179]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.04.29-10.06.27:694][179]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.04.29-10.06.27:696][179]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.04.29-10.06.27:700][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.06.27:703][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.29-10.06.27:915][180]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.04.29-10.06.48:759][224]Cmd: TRANSACTION UNDO
+[2026.04.29-10.06.48:759][224]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-10.06.49:338][236]Cmd: TRANSACTION UNDO
+[2026.04.29-10.06.49:338][236]LogEditorTransaction: Undo 엘리먼트 이동
+[2026.04.29-10.06.55:566][622]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-10.06.56:255][622]LogTexture: Display: 텍스처 빌드 중: /Engine/Transient.Texture2D_8(BGRA8, 128x128 x1x1x1)(예상 필요 메모리: 1.515617MB), 인코딩 속도: Fast
+[2026.04.29-10.07.02:961][906]Cmd: TRANSACTION UNDO
+[2026.04.29-10.07.02:961][906]LogEditorTransaction: Undo 엘리먼트 클릭
+[2026.04.29-10.07.14:376][432]Cmd: SELECT NONE
+[2026.04.29-10.07.14:532][440]Cmd: SELECT NONE
+[2026.04.29-10.07.14:671][446]Cmd: SELECT NONE
+[2026.04.29-10.07.14:859][455]Cmd: SELECT NONE
+[2026.04.29-10.07.15:006][461]Cmd: SELECT NONE
+[2026.04.29-10.07.15:334][476]Cmd: SELECT NONE
+[2026.04.29-10.07.15:491][483]Cmd: SELECT NONE
+[2026.04.29-10.07.15:647][490]Cmd: SELECT NONE
+[2026.04.29-10.07.15:797][497]Cmd: SELECT NONE
+[2026.04.29-10.07.15:959][504]Cmd: SELECT NONE
+[2026.04.29-10.07.16:127][513]Cmd: SELECT NONE
+[2026.04.29-10.07.16:298][522]Cmd: SELECT NONE
+[2026.04.29-10.07.16:475][531]Cmd: SELECT NONE
+[2026.04.29-10.07.16:636][538]Cmd: SELECT NONE
+[2026.04.29-10.07.17:188][564]Cmd: SELECT NONE
+[2026.04.29-10.07.17:308][570]Cmd: SELECT NONE
+[2026.04.29-10.07.22:878][856]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.07.22:889][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.07.22:890][856]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.07.22:896][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006014s)
+[2026.04.29-10.07.22:896][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.006116s)
+[2026.04.29-10.07.22:973][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.29-10.07.22:978][856]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.07.22:983][856]LogPlayLevel: PIE: World Init took: (0.005550s)
+[2026.04.29-10.07.22:986][856]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.07.22:986][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.07.22:986][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.07.22:986][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.07.22:986][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.07.22:986][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.07.22:990][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.07.23:019][856]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.07.23:019][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.07.23:019][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.07.23:019][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.07.23:021][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.04.29-10.07.23:021][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.04.29-10.07.23:028][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.04.29-10.07.23:028][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.04.29-10.07.23:028][856]LogInit: FAudioDevice initialized with ID 13.
+[2026.04.29-10.07.23:028][856]LogAudio: Display: Audio Device (ID: 13) registered with world 'testlevel'.
+[2026.04.29-10.07.23:028][856]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.29-10.07.23:046][856]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.07.23:049][856]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.07.23
+[2026.04.29-10.07.23:049][856]LogWorld: Bringing up level for play took: 0.002281
+[2026.04.29-10.07.23:053][856]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.04.29-10.07.23:056][856]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.07.23:061][856]PIE: 에디터에서 플레이 총 시작 시간 0.172초입니다.
+[2026.04.29-10.07.25:249][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.07.25:249][865]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.07.25:249][865]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.07.25:250][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.07.25:552][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.07.25:555][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.07.25:597][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.29-10.07.25:597][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.04.29-10.07.25:597][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.04.29-10.07.25:601][865]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.04.29-10.07.25:610][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.07.25:616][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.04.29-10.07.25:664][866]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.04.29-10.07.38:702][532]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.29-10.07.38:762][532]LogStaticMesh: Display: SM_ColorCalibrator스태틱 메시 빌드 중(필요 메모리 예상: 59.138803MB)...
+[2026.04.29-10.07.39:108][554]LogStaticMesh: Built static mesh [0.35s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
+[2026.04.29-10.07.39:509][582]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/ko/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.04.29-10.07.43:486][728]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Total job queries 18,655, among them cache hits 3,765 (20.18%), DDC hits 12,347 (66.19%), Duplicates 1,795 (9.62%)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Tracking 13,095 distinct input hashes that result in 11,926 distinct outputs (91.07%)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: RAM used: 158.98 MiB of 819.20 MiB budget. Usage: 19.41%
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Shaders Compiled: 748
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Jobs assigned 748, completed 748 (100%)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Average time worker was idle: 227.75 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Time job spent in pending queue: average 12.06 s, longest 71.30 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Job execution time: average 14.04 s, max 57.36 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Job life time (pending + execution): average 26.10 s, max 75.04
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Shader code size: total 10.907 MiB, numShaders 772, average 14.468 KiB, min 2.105 KiB, max 55.505 KiB
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 246.06 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Jobs were issued in 200 batches (only local compilation was used), average 3.74 jobs/batch
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Average processing rate: 3.04 jobs/sec
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Total thread time: 1,746.811 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Total thread preprocess time: 405.431 s
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Percentage time preprocessing: 23.21%
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Effective parallelization: 7.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.887403
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 7.27 sec, max 7.27 sec, min 7.27 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 6.77 sec, max 6.77 sec, min 6.77 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 6.22 sec, max 9.16 sec, min 5.49 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 26.47% of total time (compiled   80 times, average 5.78 sec, max 22.24 sec, min 3.69 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.87% of total time (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.12% of total time (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.30% of total time (compiled   68 times, average 1.87 sec, max 15.13 sec, min 0.50 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.23% of total time (compiled   24 times, average 5.26 sec, max 24.03 sec, min 2.20 sec)
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Materials Translated:    178
+[2026.04.29-10.08.00:680][878]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.29-10.08.00:681][878]LogShaderCompilers: Display: Material Translation Only: 0.10 s (41%)
+[2026.04.29-10.08.00:681][878]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-10.08.00:681][878]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.29-10.08.00:681][878]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.09.11:024][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.04.29-10.09.11:024][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.04.29-10.09.11:025][932]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_78
+[2026.04.29-10.09.11:025][932]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_78
+[2026.04.29-10.09.11:910][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.29-10.09.11:913][970]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.04.29-10.09.11:920][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.04.29-10.09.11:920][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.04.29-10.09.11:922][970]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_79
+[2026.04.29-10.09.11:922][970]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_79
+[2026.04.29-10.09.37:156][314]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.09.37:485][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.29-10.09.37:485][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.29-10.09.37:486][328]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_80
+[2026.04.29-10.09.37:486][328]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_80
+[2026.04.29-10.09.40:087][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.29-10.09.40:089][471]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.04.29-10.09.40:103][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.29-10.09.40:103][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.04.29-10.09.40:105][471]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_81
+[2026.04.29-10.09.40:106][471]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_81
+[2026.04.29-10.10.23:697][534]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.10.26:411][679]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.10.26:418][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.10.26:445][679]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.10.26:448][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002509s)
+[2026.04.29-10.10.26:448][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.002561s)
+[2026.04.29-10.10.26:469][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.29-10.10.26:471][679]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.10.26:473][679]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2026.04.29-10.10.26:474][679]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.10.26:474][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.10.26:474][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.10.26:474][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.10.26:474][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.10.26:474][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.10.26:476][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.10.26:492][679]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.10.26:492][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.10.26:492][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.10.26:492][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.10.26:493][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.29-10.10.26:493][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.29-10.10.26:495][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.29-10.10.26:495][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.29-10.10.26:495][679]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.29-10.10.26:495][679]LogAudio: Display: Audio Device (ID: 14) registered with world 'testlevel'.
+[2026.04.29-10.10.26:495][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.29-10.10.26:499][679]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.10.26:500][679]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.10.26
+[2026.04.29-10.10.26:500][679]LogWorld: Bringing up level for play took: 0.000834
+[2026.04.29-10.10.26:502][679]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.04.29-10.10.26:504][679]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.10.26:506][679]PIE: 에디터에서 플레이 총 시작 시간 0.089초입니다.
+[2026.04.29-10.10.40:537][ 31]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.10.42:086][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.10.42:086][126]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.10.42:086][126]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.10.42:087][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.10.42:088][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.10.42:094][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.10.42:120][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.10.42:120][126]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.29-10.10.42:120][126]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.04.29-10.10.42:122][126]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.04.29-10.10.42:129][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.29-10.10.42:361][127]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.04.29-10.10.47:874][343]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.10.54:217][661]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.10.58:565][854]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.11.26:650][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5793.749512
+[2026.04.29-10.11.26:953][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.11.26:953][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5794.035156, Update Interval: 300.397339
+[2026.04.29-10.12.07:081][467]Cmd: TRANSACTION UNDO
+[2026.04.29-10.12.07:081][467]LogEditorTransaction: Undo 엘리먼트 스케일조절
+[2026.04.29-10.12.25:292][326]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.12.25:298][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.12.25:298][326]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.12.25:302][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003672s)
+[2026.04.29-10.12.25:302][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.003723s)
+[2026.04.29-10.12.25:334][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-10.12.25:336][326]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.12.25:338][326]LogPlayLevel: PIE: World Init took: (0.002198s)
+[2026.04.29-10.12.25:339][326]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.12.25:339][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.12.25:339][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.12.25:339][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.12.25:339][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.12.25:339][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.12.25:342][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.12.25:357][326]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.12.25:357][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.12.25:357][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.12.25:357][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.12.25:358][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.29-10.12.25:358][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.29-10.12.25:361][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.29-10.12.25:361][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.29-10.12.25:361][326]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.29-10.12.25:361][326]LogAudio: Display: Audio Device (ID: 15) registered with world 'testlevel'.
+[2026.04.29-10.12.25:361][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.29-10.12.25:365][326]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.12.25:366][326]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.12.25
+[2026.04.29-10.12.25:366][326]LogWorld: Bringing up level for play took: 0.001011
+[2026.04.29-10.12.25:369][326]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.04.29-10.12.25:371][326]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.12.25:373][326]PIE: 에디터에서 플레이 총 시작 시간 0.076초입니다.
+[2026.04.29-10.12.43:632][227]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.12.47:354][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.12.47:354][472]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.12.47:354][472]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.12.47:355][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.12.47:356][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.12.47:359][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.12.47:376][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.12.47:377][472]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.29-10.12.47:377][472]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.04.29-10.12.47:379][472]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.04.29-10.12.47:384][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-10.12.47:591][473]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.04.29-10.13.24:289][348]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-10.13.24:290][348]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-10.14.14:174][304]LogInteractiveToolsContext: Display: 디테일 패널에서 셰이프 세팅을 변경하거나 기즈모로 배치를 수정한 다음 툴을 수락하세요.
+[2026.04.29-10.14.15:152][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Stairs_8CDC39AA.Stairs_8CDC39AA
+[2026.04.29-10.14.15:154][360]LogStaticMesh: Display: Stairs_8CDC39AA스태틱 메시 빌드 중(필요 메모리 예상: 0.336536MB)...
+[2026.04.29-10.14.15:154][360]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Stairs_8CDC39AA.Stairs_8CDC39AA as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_84
+[2026.04.29-10.14.15:155][360]LogStaticMesh: Built static mesh [0.00s] /Game/levels/_GENERATED/user/Stairs_8CDC39AA.Stairs_8CDC39AA
+[2026.04.29-10.14.15:839][361]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.14.16:265][382]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.14.37:216][407]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.14.56:701][367]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-10.14.56:702][367]LogInteractiveToolsContext: Display: 이 툴은 새 셰이프를 생성합니다. 씬을 클릭하여 메시의 초기 배치를 선택합니다.
+[2026.04.29-10.14.58:385][470]LogInteractiveToolsContext: Display: 디테일 패널에서 셰이프 세팅을 변경하거나 기즈모로 배치를 수정한 다음 툴을 수락하세요.
+[2026.04.29-10.15.01:394][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/levels/_GENERATED/user/Sphere_BB29EACE.Sphere_BB29EACE
+[2026.04.29-10.15.01:394][643]LogStaticMesh: Display: Sphere_BB29EACE스태틱 메시 빌드 중(필요 메모리 예상: 4.785744MB)...
+[2026.04.29-10.15.01:396][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/levels/_GENERATED/user/Sphere_BB29EACE.Sphere_BB29EACE as actor: StaticMeshActor /Game/levels/testlevel.testlevel:PersistentLevel.StaticMeshActor_85
+[2026.04.29-10.15.01:404][643]LogStaticMesh: Built static mesh [0.01s] /Game/levels/_GENERATED/user/Sphere_BB29EACE.Sphere_BB29EACE
+[2026.04.29-10.15.01:677][644]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.02:470][686]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.23:829][741]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.40:601][587]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.47:980][951]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.54:292][262]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.15.58:632][476]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.16.24:984][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.29-10.16.25:001][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/testlevel_Auto5
+[2026.04.29-10.16.25:001][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/testlevel_Auto5FBE604A94436716C680A2A921B3EFD51.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/testlevel_Auto5.umap'
+[2026.04.29-10.16.25:003][630]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/testlevel' took 0.058
+[2026.04.29-10.16.25:003][630]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.04.29-10.16.25:004][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/NewMaterial] ([1] browsable assets)...
+[2026.04.29-10.16.25:004][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial]
+[2026.04.29-10.16.25:011][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/NewMaterial_Auto5
+[2026.04.29-10.16.25:011][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial_Auto50D22496344925F111A86EE8485BC4D94.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/NewMaterial_Auto5.uasset'
+[2026.04.29-10.16.25:012][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/NewMaterial1] ([1] browsable assets)...
+[2026.04.29-10.16.25:012][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial1]
+[2026.04.29-10.16.25:019][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/NewMaterial1_Auto5
+[2026.04.29-10.16.25:019][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial1_Auto5C3FE0BD64F4365622428FEACA0D5A6DE.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/NewMaterial1_Auto5.uasset'
+[2026.04.29-10.16.25:021][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_39AFBCA7] ([1] browsable assets)...
+[2026.04.29-10.16.25:021][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_39AFBCA7]
+[2026.04.29-10.16.25:029][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Box_39AFBCA7_Auto5
+[2026.04.29-10.16.25:029][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_39AFBCA7_Auto5E093216143C62819FF5EA2A214E286DC.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Box_39AFBCA7_Auto5.uasset'
+[2026.04.29-10.16.25:030][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_99BC537F] ([1] browsable assets)...
+[2026.04.29-10.16.25:030][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_99BC537F]
+[2026.04.29-10.16.25:037][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_99BC537F_Auto5
+[2026.04.29-10.16.25:037][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_99BC537F_Auto518668D0B4805050E88368BAA62577B0A.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_99BC537F_Auto5.uasset'
+[2026.04.29-10.16.25:039][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_EB26EEAB] ([1] browsable assets)...
+[2026.04.29-10.16.25:039][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_EB26EEAB]
+[2026.04.29-10.16.25:046][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Box_EB26EEAB_Auto5
+[2026.04.29-10.16.25:046][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_EB26EEAB_Auto5D48C32C944B8F7098191CF88DC21AD73.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Box_EB26EEAB_Auto5.uasset'
+[2026.04.29-10.16.25:047][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_F2BA8E89] ([1] browsable assets)...
+[2026.04.29-10.16.25:047][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_F2BA8E89]
+[2026.04.29-10.16.25:055][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_F2BA8E89_Auto5
+[2026.04.29-10.16.25:056][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_F2BA8E89_Auto57FD4945243AC1455BFDA118DA6DE0CB2.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_F2BA8E89_Auto5.uasset'
+[2026.04.29-10.16.25:056][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_DE4DF088] ([1] browsable assets)...
+[2026.04.29-10.16.25:056][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_DE4DF088]
+[2026.04.29-10.16.25:063][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Box_DE4DF088_Auto5
+[2026.04.29-10.16.25:063][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_DE4DF088_Auto5477D447743BD86EBC71DB297A109B709.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Box_DE4DF088_Auto5.uasset'
+[2026.04.29-10.16.25:065][630]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_C5462CA4] ([1] browsable assets)...
+[2026.04.29-10.16.25:065][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_C5462CA4]
+[2026.04.29-10.16.25:072][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_C5462CA4_Auto5
+[2026.04.29-10.16.25:072][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_C5462CA4_Auto584705A634AAFFE8A3F55E5A010CDD33A.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_C5462CA4_Auto5.uasset'
+[2026.04.29-10.16.25:074][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Stairs_7738DCCC] ([1] browsable assets)...
+[2026.04.29-10.16.25:137][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Stairs_7738DCCC.Stairs_7738DCCC]
+[2026.04.29-10.16.25:137][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Stairs_7738DCCC]
+[2026.04.29-10.16.25:146][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Stairs_7738DCCC_Auto5
+[2026.04.29-10.16.25:146][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Stairs_7738DCCC_Auto5685280154BCE996911818D9CEE280267.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Stairs_7738DCCC_Auto5.uasset'
+[2026.04.29-10.16.25:149][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Box_5DFB858F] ([1] browsable assets)...
+[2026.04.29-10.16.25:160][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Box_5DFB858F.Box_5DFB858F]
+[2026.04.29-10.16.25:160][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_5DFB858F]
+[2026.04.29-10.16.25:167][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Box_5DFB858F_Auto5
+[2026.04.29-10.16.25:167][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_5DFB858F_Auto5C52F46CD494E87BB16E59C87AB95BD29.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Box_5DFB858F_Auto5.uasset'
+[2026.04.29-10.16.25:169][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_974E4CA7] ([1] browsable assets)...
+[2026.04.29-10.16.25:178][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Boolean_974E4CA7.Boolean_974E4CA7]
+[2026.04.29-10.16.25:178][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_974E4CA7]
+[2026.04.29-10.16.25:187][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_974E4CA7_Auto5
+[2026.04.29-10.16.25:187][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_974E4CA7_Auto5D484C3764B3FC382429E64B2B1C0CDA5.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_974E4CA7_Auto5.uasset'
+[2026.04.29-10.16.25:189][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_99C0EAB7] ([1] browsable assets)...
+[2026.04.29-10.16.25:198][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Boolean_99C0EAB7.Boolean_99C0EAB7]
+[2026.04.29-10.16.25:198][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_99C0EAB7]
+[2026.04.29-10.16.25:206][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_99C0EAB7_Auto5
+[2026.04.29-10.16.25:206][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_99C0EAB7_Auto5D447A6144C6D909E780EE595A5407A2B.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_99C0EAB7_Auto5.uasset'
+[2026.04.29-10.16.25:208][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_1FE92E3A] ([1] browsable assets)...
+[2026.04.29-10.16.25:217][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Boolean_1FE92E3A.Boolean_1FE92E3A]
+[2026.04.29-10.16.25:217][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_1FE92E3A]
+[2026.04.29-10.16.25:225][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_1FE92E3A_Auto5
+[2026.04.29-10.16.25:225][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_1FE92E3A_Auto5EE9DF4814B8460645E25E2A23392AC59.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_1FE92E3A_Auto5.uasset'
+[2026.04.29-10.16.25:227][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_64D72C6D] ([1] browsable assets)...
+[2026.04.29-10.16.25:236][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Boolean_64D72C6D.Boolean_64D72C6D]
+[2026.04.29-10.16.25:236][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_64D72C6D]
+[2026.04.29-10.16.25:244][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Boolean_64D72C6D_Auto5
+[2026.04.29-10.16.25:244][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_64D72C6D_Auto5AE4D01BF42DD71844C226586161E43AB.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Boolean_64D72C6D_Auto5.uasset'
+[2026.04.29-10.16.25:245][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Stairs_8CDC39AA] ([1] browsable assets)...
+[2026.04.29-10.16.25:254][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Stairs_8CDC39AA.Stairs_8CDC39AA]
+[2026.04.29-10.16.25:255][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Stairs_8CDC39AA]
+[2026.04.29-10.16.25:264][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Stairs_8CDC39AA_Auto5
+[2026.04.29-10.16.25:264][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Stairs_8CDC39AA_Auto5597CE2D64B08384A2271F5B9EC325647.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Stairs_8CDC39AA_Auto5.uasset'
+[2026.04.29-10.16.25:266][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/_GENERATED/user/Sphere_BB29EACE] ([1] browsable assets)...
+[2026.04.29-10.16.25:275][630]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/levels/_GENERATED/user/Sphere_BB29EACE.Sphere_BB29EACE]
+[2026.04.29-10.16.25:275][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Sphere_BB29EACE]
+[2026.04.29-10.16.25:286][630]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/_GENERATED/user/Sphere_BB29EACE_Auto5
+[2026.04.29-10.16.25:286][630]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Sphere_BB29EACE_Auto5DE834E364F416F4970A35AA2B6FF9B56.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/_GENERATED/user/Sphere_BB29EACE_Auto5.uasset'
+[2026.04.29-10.16.25:287][630]LogFileHelpers: Auto-saving content packages took 0.285
+[2026.04.29-10.16.26:651][635]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.17.13:450][334]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.17.13:456][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.17.13:456][334]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.17.13:459][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003120s)
+[2026.04.29-10.17.13:459][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.003195s)
+[2026.04.29-10.17.13:493][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.04.29-10.17.13:495][334]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.17.13:497][334]LogPlayLevel: PIE: World Init took: (0.002355s)
+[2026.04.29-10.17.13:498][334]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.17.13:499][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.17.13:499][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.17.13:499][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.17.13:499][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.17.13:499][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.17.13:501][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.17.13:517][334]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.17.13:517][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.17.13:517][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.17.13:517][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.17.13:518][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.04.29-10.17.13:518][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.04.29-10.17.13:520][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.04.29-10.17.13:520][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.04.29-10.17.13:521][334]LogInit: FAudioDevice initialized with ID 16.
+[2026.04.29-10.17.13:521][334]LogAudio: Display: Audio Device (ID: 16) registered with world 'testlevel'.
+[2026.04.29-10.17.13:521][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.29-10.17.13:525][334]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.17.13:526][334]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.17.13
+[2026.04.29-10.17.13:526][334]LogWorld: Bringing up level for play took: 0.001015
+[2026.04.29-10.17.13:528][334]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.04.29-10.17.13:530][334]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.17.13:533][334]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2026.04.29-10.17.19:715][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6146.814941
+[2026.04.29-10.17.19:992][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.17.19:993][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6147.075684, Update Interval: 323.401581
+[2026.04.29-10.17.42:852][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.17.42:852][798]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.17.42:852][798]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.17.42:853][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.17.42:858][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.17.42:860][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.17.42:881][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.17.42:881][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.04.29-10.17.42:882][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.04.29-10.17.42:886][798]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.04.29-10.17.42:893][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.29-10.17.43:115][799]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.04.29-10.18.00:656][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-10.18.00:754][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.29-10.18.00:769][526]LogSavePackage: Moving output files for package: /Game/levels/testlevel
+[2026.04.29-10.18.00:770][526]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/testlevelDA40E679400E6557A5C28B98FDF519E4.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/testlevel.umap'
+[2026.04.29-10.18.00:782][526]LogFileHelpers: Saving map 'testlevel' took 0.073
+[2026.04.29-10.18.00:789][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.534 ms (total: 586.965 ms)
+[2026.04.29-10.18.00:825][526]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-10.18.00:825][526]LogContentValidation: Enabled validators:
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-10.18.00:825][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-10.18.00:825][526]AssetCheck: /Game/levels/testlevel 에셋 유효성 검사 중
+[2026.04.29-10.18.50:057][821]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/levels/NewMaterial1.NewMaterial1
+[2026.04.29-10.18.50:061][821]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.29-10.18.50:723][821]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.18.50:723][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.18.50:723][821]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.18.50:723][821]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.18.50:841][823]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.01:954][152]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.19.01:962][152]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.19.01:963][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.01:963][152]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.19.01:963][152]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.02:016][155]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.19.02:016][155]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.19.02:016][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.02:016][155]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.19.02:016][155]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.19.02:958][186]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.14:228][292]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.19.14:237][292]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.19.14:237][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.14:237][292]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.19.14:237][292]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.14:295][295]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.19.14:295][295]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.19.14:295][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.14:295][295]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.19.14:295][295]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.19.14:928][312]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.16:702][378]LogMaterialEditor: Saving and Compiling material NewMaterial1
+[2026.04.29-10.19.17:028][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.29-10.19.18:315][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-10.19.18:424][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-10.19.18:458][378]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/NewMaterial1] ([1] browsable assets)...
+[2026.04.29-10.19.18:469][378]OBJ SavePackage:     Rendered thumbnail for [Material /Game/levels/NewMaterial1.NewMaterial1]
+[2026.04.29-10.19.18:469][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial1]
+[2026.04.29-10.19.18:469][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/NewMaterial1" FILE="../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset" SILENT=true
+[2026.04.29-10.19.18:477][378]LogSavePackage: Moving output files for package: /Game/levels/NewMaterial1
+[2026.04.29-10.19.18:477][378]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial16AC607184392AD64DCE696AC16B461D1.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset'
+[2026.04.29-10.19.19:136][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 711.494 ms (total: 1.29 sec)
+[2026.04.29-10.19.19:208][378]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-10.19.19:208][378]LogContentValidation: Enabled validators:
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-10.19.19:208][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-10.19.19:208][378]AssetCheck: /Game/levels/NewMaterial1 에셋 유효성 검사 중
+[2026.04.29-10.19.20:094][405]LogSlate: Window 'NewMaterial1' being destroyed
+[2026.04.29-10.19.20:159][405]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.19.20:159][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.19.20:189][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.04.29-10.19.26:574][716]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/levels/NewMaterial1.NewMaterial1
+[2026.04.29-10.19.26:577][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.29-10.19.27:168][716]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.19.27:168][716]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.27:168][716]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.19.27:168][716]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.19.27:343][718]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.03:279][777]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Total job queries 18,697, among them cache hits 3,798 (20.31%), DDC hits 12,347 (66.04%), Duplicates 1,796 (9.61%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Tracking 13,103 distinct input hashes that result in 11,934 distinct outputs (91.08%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: RAM used: 159.03 MiB of 819.20 MiB budget. Usage: 19.41%
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Shaders Compiled: 756
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Jobs assigned 756, completed 756 (100%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Average time worker was idle: 232.86 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Time job spent in pending queue: average 11.93 s, longest 71.30 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Job execution time: average 13.90 s, max 57.36 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Job life time (pending + execution): average 25.83 s, max 75.04
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Shader code size: total 10.971 MiB, numShaders 780, average 14.402 KiB, min 2.105 KiB, max 55.505 KiB
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 248.75 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Jobs were issued in 208 batches (only local compilation was used), average 3.63 jobs/batch
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Average processing rate: 3.04 jobs/sec
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Total thread time: 1,752.081 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Total thread preprocess time: 406.084 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Percentage time preprocessing: 23.18%
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Effective parallelization: 7.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.880432
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 7.27 sec, max 7.27 sec, min 7.27 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 6.77 sec, max 6.77 sec, min 6.77 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 6.22 sec, max 9.16 sec, min 5.49 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 26.39% of total time (compiled   80 times, average 5.78 sec, max 22.24 sec, min 3.69 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.85% of total time (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.10% of total time (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.35% of total time (compiled   70 times, average 1.84 sec, max 15.13 sec, min 0.50 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.21% of total time (compiled   24 times, average 5.26 sec, max 24.03 sec, min 2.20 sec)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Materials Translated:    189
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Material Translation Only: 0.10 s (41%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.29-10.20.03:290][777]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.20.03:291][777]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.03:291][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.03:291][777]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.20.03:291][777]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.03:556][781]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.03:556][781]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.03:556][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.03:556][781]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.20.03:556][781]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.04:312][811]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.20.04:312][811]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.04:312][811]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.20.04:313][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.04:313][811]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.20.04:313][811]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.11:259][907]LogSlate: Window '메시지' being destroyed
+[2026.04.29-10.20.11:263][907]Message dialog closed, result: Yes, title: 메시지, text: 이 머티리얼의 변경내용을 원본 머티리얼에 적용할까요?
+/Game/levels/NewMaterial1.NewMaterial1
+(아니오는 변경내용을 잃습니다!)
+[2026.04.29-10.20.11:424][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-10.20.12:609][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.04.29-10.20.12:628][907]LogSlate: Window 'NewMaterial1' being destroyed
+[2026.04.29-10.20.12:657][907]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.20.12:658][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.20.13:041][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.29-10.20.27:853][682]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/levels/NewMaterial1.NewMaterial1
+[2026.04.29-10.20.27:857][682]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.29-10.20.28:478][682]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.28:478][682]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.28:478][682]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.20.28:478][682]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.20.28:567][684]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.48:221][166]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.20.48:230][166]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.48:230][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.48:230][166]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.20.48:230][166]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.48:486][170]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.48:486][170]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.48:486][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.48:486][170]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.20.48:486][170]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.20.49:323][204]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.53:924][277]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.20.53:932][277]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.53:932][277]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.53:932][277]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.20.53:932][277]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.54:023][281]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.54:023][281]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.20.54:023][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.54:023][281]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.20.54:023][281]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.20.54:928][316]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.20.59:040][493]LogMaterialEditor: Saving and Compiling material NewMaterial1
+[2026.04.29-10.20.59:216][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.29-10.21.00:511][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.29-10.21.00:622][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-10.21.00:657][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/NewMaterial1] ([1] browsable assets)...
+[2026.04.29-10.21.00:668][493]OBJ SavePackage:     Rendered thumbnail for [Material /Game/levels/NewMaterial1.NewMaterial1]
+[2026.04.29-10.21.00:668][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial1]
+[2026.04.29-10.21.00:668][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/NewMaterial1" FILE="../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset" SILENT=true
+[2026.04.29-10.21.00:676][493]LogSavePackage: Moving output files for package: /Game/levels/NewMaterial1
+[2026.04.29-10.21.00:676][493]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial1C2F3AD454460EFBB140F1BB201DD0734.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset'
+[2026.04.29-10.21.00:684][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.395 ms (total: 1.36 sec)
+[2026.04.29-10.21.00:758][493]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-10.21.00:758][493]LogContentValidation: Enabled validators:
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-10.21.00:758][493]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-10.21.00:758][493]AssetCheck: /Game/levels/NewMaterial1 에셋 유효성 검사 중
+[2026.04.29-10.21.01:387][521]LogSlate: Window 'NewMaterial1' being destroyed
+[2026.04.29-10.21.01:454][521]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.21.01:454][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.21.01:489][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-10.21.11:134][  6]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/levels/NewMaterial1.NewMaterial1
+[2026.04.29-10.21.11:137][  6]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.29-10.21.11:750][  6]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.21.11:750][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.11:750][  6]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.21.11:750][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.21.11:831][  8]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.19:283][ 63]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.21.19:292][ 63]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.21.19:292][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.19:292][ 63]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.21.19:292][ 63]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.19:351][ 66]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.21.19:351][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.21.19:351][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.19:351][ 66]MaterialEditorStats: Shader Count: 1
+[2026.04.29-10.21.19:351][ 66]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.21.20:076][ 89]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.34:410][197]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.21.34:420][197]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.21.34:420][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.34:420][197]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.21.34:420][197]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.34:735][201]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.21.34:736][201]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.21.34:736][201]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.34:736][201]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.21.34:736][201]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.34:736][201]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.21.35:286][222]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.21.35:287][222]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.21.35:287][222]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.21.35:287][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.21.35:287][222]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.21.35:287][222]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.21.37:875][266]LogSlate: Window '메시지' being destroyed
+[2026.04.29-10.21.37:879][266]Message dialog closed, result: Yes, title: 메시지, text: 이 머티리얼의 변경내용을 원본 머티리얼에 적용할까요?
+/Game/levels/NewMaterial1.NewMaterial1
+(아니오는 변경내용을 잃습니다!)
+[2026.04.29-10.21.38:036][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.29-10.21.39:323][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-10.21.39:340][266]LogSlate: Window 'NewMaterial1' being destroyed
+[2026.04.29-10.21.39:368][266]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.21.39:368][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.21.39:551][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Total job queries 18,790, among them cache hits 3,866 (20.57%), DDC hits 12,347 (65.71%), Duplicates 1,799 (9.57%)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Tracking 13,125 distinct input hashes that result in 11,956 distinct outputs (91.09%)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: RAM used: 159.18 MiB of 819.20 MiB budget. Usage: 19.43%
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Shaders Compiled: 778
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Jobs assigned 778, completed 778 (100%)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Average time worker was idle: 212.24 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Time job spent in pending queue: average 11.60 s, longest 71.30 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Job execution time: average 13.53 s, max 57.36 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Job life time (pending + execution): average 25.12 s, max 75.04
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Shader code size: total 11.149 MiB, numShaders 802, average 14.235 KiB, min 2.105 KiB, max 55.505 KiB
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 256.63 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Jobs were issued in 230 batches (only local compilation was used), average 3.38 jobs/batch
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Average processing rate: 3.03 jobs/sec
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Total thread time: 1,767.894 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Total thread preprocess time: 407.627 s
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Percentage time preprocessing: 23.06%
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Effective parallelization: 6.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.861124
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 7.27 sec, max 7.27 sec, min 7.27 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 6.77 sec, max 6.77 sec, min 6.77 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 6.22 sec, max 9.16 sec, min 5.49 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 26.16% of total time (compiled   80 times, average 5.78 sec, max 22.24 sec, min 3.69 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.77% of total time (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.03% of total time (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.47% of total time (compiled   75 times, average 1.76 sec, max 15.13 sec, min 0.50 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.14% of total time (compiled   24 times, average 5.26 sec, max 24.03 sec, min 2.20 sec)
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-10.23.03:321][460]LogShaderCompilers: Display: Materials Translated:    205
+[2026.04.29-10.23.03:322][460]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.04.29-10.23.03:322][460]LogShaderCompilers: Display: Material Translation Only: 0.10 s (41%)
+[2026.04.29-10.23.03:322][460]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-10.23.03:322][460]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.29-10.23.03:322][460]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.23.04:272][492]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/levels/NewMaterial1.NewMaterial1
+[2026.04.29-10.23.04:275][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.29-10.23.04:961][492]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.23.04:961][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.23.04:961][492]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.23.04:961][492]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.23.05:078][494]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.23.16:638][546]LogSlate: Window '색 선택 툴' being destroyed
+[2026.04.29-10.23.16:649][546]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.23.16:649][546]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.23.16:649][546]MaterialEditorStats: Shader Count: 0
+[2026.04.29-10.23.16:649][546]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.23.16:713][549]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.23.16:713][549]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.29-10.23.16:713][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.23.16:713][549]MaterialEditorStats: Shader Count: 2
+[2026.04.29-10.23.16:713][549]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Shader Count: 4
+[2026.04.29-10.23.18:053][598]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.29-10.23.24:485][863]LogMaterialEditor: Saving and Compiling material NewMaterial1
+[2026.04.29-10.23.24:685][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.29-10.23.26:261][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.29-10.23.26:384][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-10.23.26:441][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/levels/NewMaterial1] ([1] browsable assets)...
+[2026.04.29-10.23.26:457][863]OBJ SavePackage:     Rendered thumbnail for [Material /Game/levels/NewMaterial1.NewMaterial1]
+[2026.04.29-10.23.26:457][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial1]
+[2026.04.29-10.23.26:457][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/NewMaterial1" FILE="../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset" SILENT=true
+[2026.04.29-10.23.26:466][863]LogSavePackage: Moving output files for package: /Game/levels/NewMaterial1
+[2026.04.29-10.23.26:467][863]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial17525F5374B8C1FABAE2C94A56E422A41.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial1.uasset'
+[2026.04.29-10.23.26:479][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.031 ms (total: 1.45 sec)
+[2026.04.29-10.23.26:575][863]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.29-10.23.26:575][863]LogContentValidation: Enabled validators:
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-10.23.26:575][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-10.23.26:575][863]AssetCheck: /Game/levels/NewMaterial1 에셋 유효성 검사 중
+[2026.04.29-10.23.27:734][905]LogSlate: Window 'NewMaterial1' being destroyed
+[2026.04.29-10.23.27:800][905]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.23.27:800][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.23.27:839][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.29-10.23.37:423][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6524.546875
+[2026.04.29-10.23.37:789][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.23.37:789][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6524.897949, Update Interval: 325.322418
+[2026.04.29-10.23.44:172][758]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.23.44:179][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.23.44:218][758]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.23.44:221][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2026.04.29-10.23.44:221][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.003098s)
+[2026.04.29-10.23.44:242][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.29-10.23.44:245][758]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.23.44:248][758]LogPlayLevel: PIE: World Init took: (0.002688s)
+[2026.04.29-10.23.44:250][758]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.23.44:250][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.23.44:250][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.23.44:250][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.23.44:250][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.23.44:250][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.23.44:254][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.23.44:272][758]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.23.44:273][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.23.44:273][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.23.44:273][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.23.44:274][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.04.29-10.23.44:274][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.04.29-10.23.44:276][758]LogInit: FAudioDevice initialized with ID 17.
+[2026.04.29-10.23.44:276][758]LogAudio: Display: Audio Device (ID: 17) registered with world 'testlevel'.
+[2026.04.29-10.23.44:276][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.29-10.23.44:277][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.04.29-10.23.44:277][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.04.29-10.23.44:282][758]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.23.44:283][758]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.23.44
+[2026.04.29-10.23.44:283][758]LogWorld: Bringing up level for play took: 0.001138
+[2026.04.29-10.23.44:286][758]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.04.29-10.23.44:289][758]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.23.44:293][758]PIE: 에디터에서 플레이 총 시작 시간 0.114초입니다.
+[2026.04.29-10.24.29:118][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.24.29:118][658]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.24.29:118][658]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.24.29:119][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.24.29:120][658]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.24.29:124][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.24.29:149][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.24.29:149][658]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.04.29-10.24.29:150][658]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.04.29-10.24.29:152][658]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.04.29-10.24.29:159][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.29-10.24.29:396][659]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Total job queries 18,818, among them cache hits 3,887 (20.66%), DDC hits 12,347 (65.61%), Duplicates 1,800 (9.57%)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Tracking 13,131 distinct input hashes that result in 11,962 distinct outputs (91.10%)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: RAM used: 159.23 MiB of 819.20 MiB budget. Usage: 19.44%
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Shaders Compiled: 784
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Jobs assigned 784, completed 784 (100%)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Average time worker was idle: 208.50 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Time job spent in pending queue: average 11.51 s, longest 71.30 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Job execution time: average 13.43 s, max 57.36 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Job life time (pending + execution): average 24.94 s, max 75.04
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Shader code size: total 11.201 MiB, numShaders 808, average 14.195 KiB, min 2.105 KiB, max 55.505 KiB
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 259.35 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.10%
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Jobs were issued in 236 batches (only local compilation was used), average 3.32 jobs/batch
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Average processing rate: 3.02 jobs/sec
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Total thread time: 1,773.727 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Total thread preprocess time: 408.169 s
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Percentage time preprocessing: 23.01%
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Effective parallelization: 6.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.854878
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 7.27 sec, max 7.27 sec, min 7.27 sec)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 6.77 sec, max 6.77 sec, min 6.77 sec)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 6.22 sec, max 9.16 sec, min 5.49 sec)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.26.03:622][942]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 26.07% of total time (compiled   80 times, average 5.78 sec, max 22.24 sec, min 3.69 sec)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 8.74% of total time (compiled   16 times, average 9.69 sec, max 21.87 sec, min 1.45 sec)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.00% of total time (compiled   24 times, average 5.91 sec, max 20.56 sec, min 2.98 sec)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.50% of total time (compiled   76 times, average 1.75 sec, max 15.13 sec, min 0.50 sec)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 7.12% of total time (compiled   24 times, average 5.26 sec, max 24.03 sec, min 2.20 sec)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: === Material stats ===
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Materials Translated:    211
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Material Translation Only: 0.10 s (41%)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.29-10.26.03:623][942]LogShaderCompilers: Display: ================================================
+[2026.04.29-10.26.35:296][ 37]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.27.23:759][297]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2026.04.29-10.27.23:766][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.29-10.27.23:767][297]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.27.23:771][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2026.04.29-10.27.23:771][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/testlevel.testlevel to /Game/levels/UEDPIE_0_testlevel.testlevel (0.003761s)
+[2026.04.29-10.27.23:794][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.29-10.27.23:795][297]LogChaosDD: Creating Chaos Debug Draw Scene for world testlevel
+[2026.04.29-10.27.23:798][297]LogPlayLevel: PIE: World Init took: (0.002680s)
+[2026.04.29-10.27.23:799][297]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.29-10.27.23:799][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.29-10.27.23:799][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.29-10.27.23:799][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.29-10.27.23:799][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.29-10.27.23:799][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.29-10.27.23:802][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.29-10.27.23:819][297]LogAudioMixer: Display: Using Audio Hardware Device LG FULL HD(NVIDIA High Definition Audio)
+[2026.04.29-10.27.23:819][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.29-10.27.23:819][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.29-10.27.23:819][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.29-10.27.23:820][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.29-10.27.23:820][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.29-10.27.23:822][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.29-10.27.23:822][297]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.29-10.27.23:822][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.29-10.27.23:822][297]LogAudio: Display: Audio Device (ID: 18) registered with world 'testlevel'.
+[2026.04.29-10.27.23:822][297]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.29-10.27.23:826][297]LogLoad: Game class is 'GameModeBase'
+[2026.04.29-10.27.23:827][297]LogWorld: Bringing World /Game/levels/UEDPIE_0_testlevel.testlevel up for play (max tick rate 0) at 2026.04.29-19.27.23
+[2026.04.29-10.27.23:827][297]LogWorld: Bringing up level for play took: 0.001146
+[2026.04.29-10.27.23:829][297]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.04.29-10.27.23:831][297]PIE: 서버가 로그인했습니다.
+[2026.04.29-10.27.23:833][297]PIE: 에디터에서 플레이 총 시작 시간 0.067초입니다.
+[2026.04.29-10.29.32:525][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.29.32:525][946]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_testlevel
+[2026.04.29-10.29.32:525][946]LogWorld: UWorld::CleanupWorld for testlevel, bSessionEnded=true, bCleanupResources=true
+[2026.04.29-10.29.32:525][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.29.32:539][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.29-10.29.32:543][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.29-10.29.32:571][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.29-10.29.32:571][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.29-10.29.32:571][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.04.29-10.29.32:573][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.04.29-10.29.32:579][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.29-10.29.32:898][947]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.04.29-10.29.34:367][948]LogSlate: Warning: Could not find Glyph Index 0 with codepoint U+23ce, getting last resort font data ../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf
+[2026.04.29-10.29.46:051][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6893.179688
+[2026.04.29-10.29.46:333][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.29.46:333][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6893.440430, Update Interval: 335.437469
+[2026.04.29-10.31.09:392][799]Cmd: SELECT NONE
+[2026.04.29-10.31.10:593][859]Cmd: SELECT NONE
+[2026.04.29-10.31.35:314][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.29-10.31.35:330][ 63]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/levels/testlevel_Auto6
+[2026.04.29-10.31.35:331][ 63]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/testlevel_Auto62FFEACE74223378A135666B80B9467A4.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Autosaves/Game/levels/testlevel_Auto6.umap'
+[2026.04.29-10.31.35:333][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/testlevel' took 0.046
+[2026.04.29-10.31.35:333][ 63]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2026.04.29-10.31.36:458][120]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.32.30:952][927]Cmd: SELECT NONE
+[2026.04.29-10.34.29:168][497]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.29-10.36.12:578][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7279.710938
+[2026.04.29-10.36.13:577][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.36.13:577][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7280.376465, Update Interval: 314.194763
+[2026.04.29-10.36.36:913][880]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.38.55:945][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.29-10.38.56:086][941]SourceControl: Error: warning: could not open directory 'turorial01/Content/levels/_GENERATED/': No such file or directory
+[2026.04.29-10.38.56:093][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.29-10.38.56:209][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.29-10.38.56:225][941]LogSavePackage: Moving output files for package: /Game/levels/testlevel
+[2026.04.29-10.38.56:226][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/testlevelAE40B5A14587376C9D758ABCDFEDDD65.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/testlevel.umap'
+[2026.04.29-10.38.56:238][941]LogFileHelpers: Saving map 'testlevel' took 0.075
+[2026.04.29-10.38.56:238][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/NewMaterial] ([1] browsable assets)...
+[2026.04.29-10.38.56:239][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/NewMaterial]
+[2026.04.29-10.38.56:239][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/NewMaterial" FILE="../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial.uasset" SILENT=true
+[2026.04.29-10.38.56:245][941]LogSavePackage: Moving output files for package: /Game/levels/NewMaterial
+[2026.04.29-10.38.56:245][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/NewMaterial4B762849466FADCBDD99E887ED7B485C.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/NewMaterial.uasset'
+[2026.04.29-10.38.56:247][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_39AFBCA7] ([1] browsable assets)...
+[2026.04.29-10.38.56:247][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_39AFBCA7]
+[2026.04.29-10.38.56:255][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Box_39AFBCA7
+[2026.04.29-10.38.56:255][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_39AFBCA711C115CC43A35C8B314F2D957E22CEEA.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Box_39AFBCA7.uasset'
+[2026.04.29-10.38.56:257][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_99BC537F] ([1] browsable assets)...
+[2026.04.29-10.38.56:257][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_99BC537F]
+[2026.04.29-10.38.56:266][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_99BC537F
+[2026.04.29-10.38.56:266][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_99BC537F68DD3C6244C899AF4BAB6499837C5886.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_99BC537F.uasset'
+[2026.04.29-10.38.56:267][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_EB26EEAB] ([1] browsable assets)...
+[2026.04.29-10.38.56:267][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_EB26EEAB]
+[2026.04.29-10.38.56:274][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Box_EB26EEAB
+[2026.04.29-10.38.56:275][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_EB26EEABA5DF7B96421A16C440BF82907592E34E.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Box_EB26EEAB.uasset'
+[2026.04.29-10.38.56:276][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_F2BA8E89] ([1] browsable assets)...
+[2026.04.29-10.38.56:276][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_F2BA8E89]
+[2026.04.29-10.38.56:283][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_F2BA8E89
+[2026.04.29-10.38.56:283][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_F2BA8E89BBF23DDB4E03D5D0E3AC358FF358D5FA.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_F2BA8E89.uasset'
+[2026.04.29-10.38.56:284][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_DE4DF088] ([1] browsable assets)...
+[2026.04.29-10.38.56:284][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_DE4DF088]
+[2026.04.29-10.38.56:291][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Box_DE4DF088
+[2026.04.29-10.38.56:291][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_DE4DF088427067C6474B48CE03283C82A3545073.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Box_DE4DF088.uasset'
+[2026.04.29-10.38.56:292][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_C5462CA4] ([1] browsable assets)...
+[2026.04.29-10.38.56:292][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_C5462CA4]
+[2026.04.29-10.38.56:299][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_C5462CA4
+[2026.04.29-10.38.56:299][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_C5462CA436C45D0946C379D4BF259DB9924553E8.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_C5462CA4.uasset'
+[2026.04.29-10.38.56:300][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Stairs_7738DCCC] ([1] browsable assets)...
+[2026.04.29-10.38.56:300][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Stairs_7738DCCC]
+[2026.04.29-10.38.56:308][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Stairs_7738DCCC
+[2026.04.29-10.38.56:308][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Stairs_7738DCCC105BB93E46816A03D0BDFEA3120D146A.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Stairs_7738DCCC.uasset'
+[2026.04.29-10.38.56:310][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Box_5DFB858F] ([1] browsable assets)...
+[2026.04.29-10.38.56:310][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Box_5DFB858F]
+[2026.04.29-10.38.56:317][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Box_5DFB858F
+[2026.04.29-10.38.56:317][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Box_5DFB858FDEF751CA48F723A4C1EA51A98668AC50.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Box_5DFB858F.uasset'
+[2026.04.29-10.38.56:318][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_974E4CA7] ([1] browsable assets)...
+[2026.04.29-10.38.56:318][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_974E4CA7]
+[2026.04.29-10.38.56:325][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_974E4CA7
+[2026.04.29-10.38.56:325][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_974E4CA7756ED80C44E92DCFC1B5499AA6AF42A8.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_974E4CA7.uasset'
+[2026.04.29-10.38.56:326][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_99C0EAB7] ([1] browsable assets)...
+[2026.04.29-10.38.56:326][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_99C0EAB7]
+[2026.04.29-10.38.56:334][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_99C0EAB7
+[2026.04.29-10.38.56:334][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_99C0EAB7874E15424BD2D2FE1FC72896D147F3C8.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_99C0EAB7.uasset'
+[2026.04.29-10.38.56:335][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_1FE92E3A] ([1] browsable assets)...
+[2026.04.29-10.38.56:335][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_1FE92E3A]
+[2026.04.29-10.38.56:343][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_1FE92E3A
+[2026.04.29-10.38.56:343][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_1FE92E3AF7599C46487E284E49520AB30C535772.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_1FE92E3A.uasset'
+[2026.04.29-10.38.56:344][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Boolean_64D72C6D] ([1] browsable assets)...
+[2026.04.29-10.38.56:344][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Boolean_64D72C6D]
+[2026.04.29-10.38.56:352][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Boolean_64D72C6D
+[2026.04.29-10.38.56:352][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Boolean_64D72C6DDC6CE1684E89C3B8FA05EB9A8DF3BFC0.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Boolean_64D72C6D.uasset'
+[2026.04.29-10.38.56:353][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Stairs_8CDC39AA] ([1] browsable assets)...
+[2026.04.29-10.38.56:353][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Stairs_8CDC39AA]
+[2026.04.29-10.38.56:361][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Stairs_8CDC39AA
+[2026.04.29-10.38.56:361][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Stairs_8CDC39AA933816B745AFB1D15F3EA89A6B972C72.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Stairs_8CDC39AA.uasset'
+[2026.04.29-10.38.56:362][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/levels/_GENERATED/user/Sphere_BB29EACE] ([1] browsable assets)...
+[2026.04.29-10.38.56:362][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/levels/_GENERATED/user/Sphere_BB29EACE]
+[2026.04.29-10.38.56:372][941]LogSavePackage: Moving output files for package: /Game/levels/_GENERATED/user/Sphere_BB29EACE
+[2026.04.29-10.38.56:372][941]LogSavePackage: Moving '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Saved/Sphere_BB29EACE882C93634F1DDD630412228E1945B6E1.tmp' to '../../../../../../Users/user/1419임우진언리얼/unrealEngineTutorial01/turorial01/Content/levels/_GENERATED/user/Sphere_BB29EACE.uasset'
+[2026.04.29-10.38.57:145][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 2.50 sec)
+[2026.04.29-10.38.57:179][941]LogContentValidation: Display: Starting to validate 16 assets
+[2026.04.29-10.38.57:179][941]LogContentValidation: Enabled validators:
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.29-10.38.57:179][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.29-10.38.57:179][941]AssetCheck: /Game/levels/testlevel 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/NewMaterial 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Box_39AFBCA7 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_99BC537F 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Box_EB26EEAB 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_F2BA8E89 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Box_DE4DF088 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_C5462CA4 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Stairs_7738DCCC 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Box_5DFB858F 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_974E4CA7 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_99C0EAB7 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_1FE92E3A 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Boolean_64D72C6D 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Stairs_8CDC39AA 에셋 유효성 검사 중
+[2026.04.29-10.38.57:180][941]AssetCheck: /Game/levels/_GENERATED/user/Sphere_BB29EACE 에셋 유효성 검사 중
+[2026.04.29-10.39.22:999][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.29-10.42.19:748][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7646.887695
+[2026.04.29-10.42.20:750][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.29-10.42.20:750][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7647.555664, Update Interval: 323.247772
